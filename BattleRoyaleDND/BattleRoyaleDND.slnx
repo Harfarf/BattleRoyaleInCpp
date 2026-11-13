@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="BattleRoyaleDND.vcxproj" />
+  <Project Path="BattleRoyaleDND.vcxproj" Id="ac2227a4-346f-4160-8104-2cb057b64582" />
 </Solution>

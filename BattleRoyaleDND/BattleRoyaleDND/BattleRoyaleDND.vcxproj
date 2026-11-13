@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9532fbf8-9d80-442c-afd6-6ec340b0a01e}</ProjectGuid>
+    <ProjectGuid>{62b0c39c-27f9-4164-889a-9c9efd830bc7}</ProjectGuid>
     <RootNamespace>BattleRoyaleDND</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

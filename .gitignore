@@ -69,3 +69,7 @@ Testing/
 
 # Visual Studio
 .vs/
+
+# Other
+bin/
+obj/

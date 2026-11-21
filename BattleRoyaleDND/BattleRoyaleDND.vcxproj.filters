@@ -27,6 +27,39 @@
     <ClCompile Include="Character.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PhysicalWeapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicalWeapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Axe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Wand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Staff.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dwarf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Giant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tiefling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameManager.h">
@@ -36,6 +69,39 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicalWeapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicalWeapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Axe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Staff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dwarf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Goblin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Giant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tiefling.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

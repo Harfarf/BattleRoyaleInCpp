@@ -13,7 +13,7 @@ bool PhysicalWeapon::CanBlockAttack()
 
 	static mt19937 gen(rd());
 
-	bernoulli_distribution distribution(probability);
+	bernoulli_distribution distribution();
 
 	return false;
 

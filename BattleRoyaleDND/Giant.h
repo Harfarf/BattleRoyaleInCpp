@@ -1,5 +1,6 @@
 #pragma once
-class Giant
+#include "Character.h"
+class Giant: public Character
 {
 };
 

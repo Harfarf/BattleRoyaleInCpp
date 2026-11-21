@@ -1,5 +1,6 @@
 #pragma once
-class Wand
+#include "MagicalWeapon.h"
+class Wand : public MagicalWeapon
 {
 };
 

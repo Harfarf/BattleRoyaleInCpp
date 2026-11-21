@@ -1,5 +1,6 @@
 #pragma once
-class Sword
+#include "PhysicalWeapon.h"
+class Sword : public PhysicalWeapon
 {
 };
 

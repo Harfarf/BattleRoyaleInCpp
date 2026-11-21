@@ -1,5 +1,6 @@
 #pragma once
-class Tiefling
+#include "Character.h"
+class Tiefling: public Character
 {
 };
 

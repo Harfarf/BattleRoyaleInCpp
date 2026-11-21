@@ -1,5 +1,6 @@
 #pragma once
-class Dwarf
+#include "Character.h"
+class Dwarf : public Character
 {
 };
 
